@@ -1,0 +1,32 @@
+nav{
+    background-color: #272727;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 8vh;
+}
+
+a{
+    color: #FFFFFF;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+#Logo{
+    background-color: tomato;
+    border-radius: 50%;
+}
+
+#Logo > img{
+    height: 8vh;
+    padding: 5px;
+}
+
+#Fondo{
+    background-image: url('https://guitarraviva.com/wp-content/uploads/elementor/thumbs/arpegios-guitarra-qd9emrpxe172zi9dz6mgafk7cizenncr8t6fiey738.jpg');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -21px;
+}
